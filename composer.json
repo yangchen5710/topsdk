@@ -1,5 +1,5 @@
 {
-    "name": "topsdk/topapi",
+    "name": "ycstar/topapi",
     "description": "topapi php sdk",
     "type": "library",
     "autoload": {
